@@ -2,12 +2,7 @@
 _Hunt for Bitcoin private keys._
 ## This is a experimental project & right now going through a lot of changes, so bugs and errors can appears.
 
-it's is a modified version of [KeyHunt-Cuda](https://github.com/kanhavishva/KeyHunt-Cuda/).
-
-
-## Changes
-- Removed endomorphism and curve symmetry.
-
+This is a modified version of VanitySearch by [JeanLucPons](https://github.com/JeanLucPons/VanitySearch/).
 
 # Usage
 
